@@ -20,12 +20,12 @@ Designed in-house solution for automated datalogging of particulate matter. Feat
 
 **Relevant skills:**
 * Java development using Android Studio
-* Design of custom daemon for Archlinux-ARM
+* Custom daemon set up for Archlinux-ARM
 * Datalogger development (PHP)
 * Schema design for MySQL
 * Some HTTP magic to automate web login/file upload/file download
 * RS-232 data analysis (DustMate) during initial project evaluation
-* Automated KML generation to project captured data on Google Earth
+* Automated KML generation to display captured data on Google Earth
 * Collaborative development using git (GitHub)
 
 ###[BitRock](http://www.bitrock.com)
